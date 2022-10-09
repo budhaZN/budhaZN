@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @budhaZN
+- 👋 Hi, I’m @BudhaZN
 - 👀 I’m interested in datascience & its application
 - 🌱 I’m currently learning how to navigate through waters of data
 <!---
